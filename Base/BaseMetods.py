@@ -18,7 +18,7 @@ class BaseMethodDrivers:
     def getByType(self, locatortype):
         """
         get the By Type of the locatortype
-        #ghlk
+        #ghlkfi
         #hkop
         """
 
